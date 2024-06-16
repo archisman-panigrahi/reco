@@ -3,7 +3,7 @@ Section: x11
 Priority: optional
 Maintainer: Ryo Nakano <ryonakaknock3@gmail.com>
 Build-Depends: debhelper (>= 10.5.1),
-               libgranite-dev (>= 5.4.0),
+               libgranite-7-dev,
                libgtk-4-dev,
                libgstreamer1.0-dev,
                libpulse-dev,
